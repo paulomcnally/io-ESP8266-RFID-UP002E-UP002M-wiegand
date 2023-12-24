@@ -5,3 +5,7 @@ RFID
 ![Image 1](image_1.webp?raw=true "Image 1")
 
 ![Image 2](image_2.webp?raw=true "Image 2")
+
+## Libraries
+
+* https://github.com/paulo-raca/YetAnotherArduinoWiegandLibrary
